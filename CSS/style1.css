@@ -1,0 +1,20 @@
+/* .image{
+    width:50%;
+    height:500px;
+    transform: rotate(30deg);
+} */
+/* .opacity{
+    width:100%;
+    height:500px;
+    background-color: black;
+    opacity:70%;
+    position: absolute;
+    margin-top: -500px;
+} */
+.overflow{
+    width:500px;
+    height:80px;
+background-color: aqua;
+overflow: hidden;
+}
+
